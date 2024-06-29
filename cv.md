@@ -90,7 +90,7 @@ easier. It helps to track your income and expenses and to manage budget.
 
 [Project on GitHub](https://github.com/hhheyahe/MoneyWise)
 
-### Educationa
+### Education
 *2021-2025* - **Belarusian State University of Informatics and Radioelectronics**
 Specialization: Infocommunications Engineer
 
