@@ -25,3 +25,26 @@ and delved into the JavaScript language. In my final project, I utilized Google 
 user authentication and data storage purposes. This experience further enhanced my 
 understanding of web development and allowed me to apply my skills in a practical 
 setting.
+### Skills 
+Front-end:
+* HTML
+* CSS
+* JavaScript
+
+Databases:
+* MySQL
+* PostgreSQL
+* Google Firebase
+
+Programming languages:
+* C++
+* Java
+* Python
+
+Other:
+* Figma
+* Cisco Packet Tracer
+* Linux
+* Git, GitHub, GitLab
+* Jenkins
+* Kubernetes
