@@ -96,8 +96,8 @@ easier. It helps to track your income and expenses and to manage budget.
 
 *05.2023 - 09.2023* - **Educational Center for Programming and High Tech (IT-Academy)**
 *Course: Web application development with JavaScript
-*Certificate: [JS Certificate](https://github.com/hhheyahe/courses_certificates/blob/main/JS%20Certificate%20.pdf)
+* Certificate: [JS Certificate](https://github.com/hhheyahe/courses_certificates/blob/main/JS%20Certificate%20.pdf)
 
 *01.2023 - 04.2023* - **Educational Center for Programming and High Tech (IT-Academy)**
-*Course: Web site development with HTML, CSS & JavaScript
-*Certificate: [Certificate](https://github.com/hhheyahe/courses_certificates/blob/main/certificate.pdf)
+* Course: Web site development with HTML, CSS & JavaScript
+* Certificate: [Certificate](https://github.com/hhheyahe/courses_certificates/blob/main/certificate.pdf)
