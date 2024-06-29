@@ -48,3 +48,8 @@ Other:
 * Git, GitHub, GitLab
 * Jenkins
 * Kubernetes
+
+### Languages 
+* Russian (native)
+* Belarusian (native)
+* English (Upper Intermediate)
