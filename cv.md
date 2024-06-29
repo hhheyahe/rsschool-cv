@@ -80,10 +80,14 @@ String.prototype.toJadenCase = function () {
 ```
 ### Projects
 *08.2023-09.2023* - **Trainee, Educational Center for Programming and High Tech (IT-Academy)**
+
 **Project role:** Front-end developer
+
 **Project description:**  a Single-Page Application created to make monitoring your finances 
 easier. It helps to track your income and expenses and to manage budget.
+
 **Used tools / responsibilities:** HTML, CSS, JS
+
 [Project on GitHub](https://github.com/hhheyahe/MoneyWise)
 
 ### Educationa
