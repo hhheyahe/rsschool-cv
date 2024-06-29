@@ -53,3 +53,24 @@ Other:
 * Russian (native)
 * Belarusian (native)
 * English (Upper Intermediate)
+
+### Code example
+**Codewars**: *Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word. For simplicity, you'll have to capitalize each word, check out how contractions are expected to be in the example below.*
+*Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.*
+```javascript
+String.prototype.toJadenCase = function () {
+  let result = '';
+  if (this[0] !== ' ') {
+      result += `${this[0].replace(this[0], this[0].toUpperCase())}`;
+    }
+    for (i = 1; i < this.length; i += 1) {
+      if (this[i - 1] === ' ') {
+        result += `${this[i].replace(this[i], this[i].toUpperCase())}`;
+      }
+      else {
+          result += this[i];
+      }
+    }
+  return result;
+};
+```
